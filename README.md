@@ -1,4 +1,7 @@
-# PasteBinTrashRecycler
-PasteBin Automated Bot that downloads data automatically
+# PB-BOT
+Download Posts from Paste Bin automatically
 
-**Add Desc later**
+**Requirements**
+=>Selenium
+=>GeckoDriver
+=>Firefox
